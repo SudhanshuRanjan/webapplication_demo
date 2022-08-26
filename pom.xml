@@ -15,6 +15,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!-- https://mvnrepository.com/artifact/org.easyb/maven-easyb-plugin -->
+<dependency>
+    <groupId>org.easyb</groupId>
+    <artifactId>maven-easyb-plugin</artifactId>
+    <version>1.4</version>
+</dependency>
   <build>
     <finalName>Simple_Maven_Tomcat</finalName>
   </build>
